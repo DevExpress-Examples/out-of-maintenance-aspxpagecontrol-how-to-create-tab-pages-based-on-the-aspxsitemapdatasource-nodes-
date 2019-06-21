@@ -14,6 +14,9 @@
 * [Page3.aspx.cs](./CS/Page3.aspx.cs) (VB: [Page3.aspx.vb](./VB/Page3.aspx.vb))
 <!-- default file list end -->
 # ASPxPageControl - How to create tab pages based on the ASPxSiteMapDataSource nodes collection.
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4046/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create ASPxPageControl tab pages based on the ASPxSiteMapDataSource nodes collection.</p>
