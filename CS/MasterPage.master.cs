@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Web;
 using System.Web.UI;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxTabControl;
+using DevExpress.Web;
 using System.IO;
 
 public partial class MasterPage : System.Web.UI.MasterPage

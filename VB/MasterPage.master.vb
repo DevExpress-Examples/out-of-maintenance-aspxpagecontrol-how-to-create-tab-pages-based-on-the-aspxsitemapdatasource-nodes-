@@ -1,8 +1,7 @@
 ﻿Imports System
 Imports System.Web
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxTabControl
+Imports DevExpress.Web
 Imports System.IO
 
 Partial Public Class MasterPage
